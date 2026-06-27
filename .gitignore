@@ -227,4 +227,9 @@ terraform.tfstate.backup
 *.tfvars
 artifacts/
 SUBMISSION_WRITEUP.md
+GEMINI.md
+DEMO_SCRIPT.txt
+deployment_metadata.json
+deployment/
+
 
