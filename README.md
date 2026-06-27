@@ -133,6 +133,4 @@ graph TD
 ### Workflow Architecture Diagram
 ![Workflow Architecture Diagram](assets/architecture_diagram.png)
 
-## Demo Script
-You can view the spoken presentation script for the live demo in [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt).
 
